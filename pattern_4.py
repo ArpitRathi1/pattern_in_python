@@ -4,6 +4,7 @@
 # 12            12
 # 123           124
 #               1234
+# Solution-
 
 n=int(input("Enter n:"))
 for i in range(1,(n+1)):
