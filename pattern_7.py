@@ -4,7 +4,6 @@
 #   123
 #  12345
 # 1234567
-
 # Solution-
 
 n=int(input("Enter n:"))
