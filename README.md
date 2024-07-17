@@ -55,3 +55,18 @@ Here are some of the patterns you will find in this repository:
     1234
     12345
     ```
+    
+## Getting Started
+
+To get a local copy of this repository, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/ArpitRathi1/pattern_in_python.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd pattern_in_python
+    ```
+
