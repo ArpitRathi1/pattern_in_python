@@ -78,8 +78,27 @@ Each pattern is implemented in its own Python file. To run a pattern printing pr
 python pattern_name.py
 ```
 
-For example, to run the `square_pattern.py` program, use:
+For example, to run the `pattern_1.py` program, use:
 
 ```bash
-python square_pattern.py
+python pattern_1.py
 ```
+
+## Contributing
+
+Contributions are welcome! If you have a new pattern to add or an improvement to an existing one, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature/pattern-name
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m 'Add new pattern: pattern-name'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature/pattern-name
+    ```
+5. Open a pull request.
