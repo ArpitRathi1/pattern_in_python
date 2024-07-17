@@ -15,3 +15,43 @@ Welcome to the **Python Pattern Printing Programs** repository! This repository 
 ## Introduction
 
 Pattern printing is a common exercise for learning and mastering loops and conditionals in programming. This repository includes a variety of pattern printing programs that range from simple shapes to more complex designs.
+
+## Patterns Included
+
+Here are some of the patterns you will find in this repository:
+
+1. **Square Pattern**
+    ```
+    *****
+    *****
+    *****
+    *****
+    *****
+    ```
+
+2. **Right Triangle Pattern**
+    ```
+    *
+    **
+    ***
+    ****
+    *****
+    ```
+
+3. **Pyramid Pattern**
+    ```
+        *
+       ***
+      *****
+     *******
+    *********
+    ```
+
+4. **Number Pattern**
+    ```
+    1
+    12
+    123
+    1234
+    12345
+    ```
