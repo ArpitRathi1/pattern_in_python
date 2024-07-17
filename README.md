@@ -14,4 +14,4 @@ Welcome to the **Python Pattern Printing Programs** repository! This repository 
 
 ## Introduction
 
-
+Pattern printing is a common exercise for learning and mastering loops and conditionals in programming. This repository includes a variety of pattern printing programs that range from simple shapes to more complex designs.
