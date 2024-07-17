@@ -10,7 +10,6 @@ Welcome to the **Python Pattern Printing Programs** repository! This repository 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -102,3 +101,7 @@ Contributions are welcome! If you have a new pattern to add or an improvement to
     git push origin feature/pattern-name
     ```
 5. Open a pull request.
+
+---
+
+Happy Coding!
