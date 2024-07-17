@@ -70,3 +70,16 @@ To get a local copy of this repository, follow these steps:
     cd pattern_in_python
     ```
 
+## Usage
+
+Each pattern is implemented in its own Python file. To run a pattern printing program, use the following command:
+
+```bash
+python pattern_name.py
+```
+
+For example, to run the `square_pattern.py` program, use:
+
+```bash
+python square_pattern.py
+```
